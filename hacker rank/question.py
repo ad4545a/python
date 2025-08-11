@@ -1,0 +1,5 @@
+n1=int(input(""))
+n2=map(int,input().split())
+n3=int(input(""))
+n4=input("").split()
+print(n4)

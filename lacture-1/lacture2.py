@@ -1,0 +1,16 @@
+a=54
+b=10
+jod=a+b
+ghtao=a-b
+guda=a*b
+bhag_fal=a/b
+sesh_fal=a%b
+ghaat=a**b
+bhag_fal2=a//b
+print(type(jod))
+print(type(ghtao))
+print(type(guda))
+print(type(bhag_fal))
+print(type(ghaat))
+print(type(bhag_fal2))
+print(type(sesh_fal))

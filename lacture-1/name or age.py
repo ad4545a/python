@@ -1,0 +1,6 @@
+n1=int(input("enter the age of 1st person:- "))
+n2=int(input("enter the age of 2nd person:- "))
+c1=input("enter the name of 1st person:- ")
+c2=input("enter the name of 2nd person:- ")
+print("name:- ",c1,"age:- ",n1)
+print("name:- ",c2,"age:- ",n2)
