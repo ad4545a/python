@@ -1,0 +1,10 @@
+n=int(input(""))
+    if(n%10==4):
+        print("yes")
+    else:
+        print("no")
+elif(len(n)==100):
+    if(n%110==4):
+        print("yes")
+    else:
+        print("no")
